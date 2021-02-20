@@ -14,4 +14,4 @@ function compare() {
     document.getElementById('answer').innerHTML = "positive"
    }
 
-}
+}     
